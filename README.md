@@ -12,6 +12,8 @@ I followed Clean Architecture principles with clear separation of concerns acros
 
 Each layer lives in a dedicated assembly definition (.asmdef), allowing modularity and compile-time dependency control.
 
+Additionally, **Zenject** is used for dependency injection to decouple components and manage runtime bindings cleanly across layers.
+
 ## Map Generation
 Two maps are provided as TextAsset files, where 0 = Water, 1 = Terrain.
 TextAssetMapParser parses the map into a domain-level HexGrid.
