@@ -1,0 +1,22 @@
+{
+    "name": "SailingBoat.Presentation",
+    "rootNamespace": "",
+    "references": [
+        "GUID:55de55d1a99009b45aba60d53377bbaf",
+        "GUID:c69156c4b68ec3e44b1db70866b29c0a",
+        "GUID:7144baf5c9b9b294c8267fe6f6da27cf",
+        "GUID:9e24947de15b9834991c9d8411ea37cf",
+        "GUID:84651a3751eca9349aac36a66bba901b",
+        "GUID:4307f53044263cf4b835bd812fc161a4",
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

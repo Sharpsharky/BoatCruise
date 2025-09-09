@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Others
+  m_EditorClassIdentifier: 
+  m_GroupName: Others
+  m_GUID: d684c9f5fb7d32044ae15c2c2312f6fd
+  m_SerializeEntries:
+  - m_GUID: 414d248bdfd6b514a802b40f887cc9d4
+    m_Address: m_tiles_waves_ps
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9c2b714c05be4b44fb64bc60e69eba3e
+    m_Address: mauritania_background_water
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Background
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a563157a4ceeb234d8d2b8bbbd4d5ab4
+    m_Address: mauritania_boat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Boat
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: f35a064eb56b406469e87710c4481810, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a3039af1e7b63f943b5049ff1fc8c4b9, type: 2}
+    - {fileID: 11400000, guid: ec099a89c79f70e4c9bc43676877934d, type: 2}

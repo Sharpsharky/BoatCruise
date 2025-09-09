@@ -1,0 +1,16 @@
+{
+    "name": "SailingBoat.Application",
+    "rootNamespace": "",
+    "references": [
+        "GUID:55de55d1a99009b45aba60d53377bbaf"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
