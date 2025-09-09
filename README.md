@@ -1,3 +1,5 @@
+<img src="Images/boatPreview.png" align="middle" width="3000"/>
+
 # Sailing Boat Hex Map Prototype - Architecture Overview
 
 ## Design Philosophy & Structure
